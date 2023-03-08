@@ -1,0 +1,20 @@
+#
+# Huaqin create for WSP-4053 by lijingang at 2019/05/06
+#
+service cust_vendor_prop /vendor/bin/cust_vendor_prop
+    user root
+    group root system
+    disabled
+    oneshot
+
+on property:vendor.build.fingerprint=EEA
+
+    setprop ro.odm.build.fingerprint ${ro.vendor.build.fingerprint_eea}
+    setprop ro.product.odm.name "Wasp_00EEA"
+    setprop ro.product.vendor.name "Wasp_00EEA"
+
+on property:vendor.build.fingerprint=WW
+
+    setprop ro.odm.build.fingerprint ${ro.vendor.build.fingerprint_normal}
+    setprop ro.product.odm.name "Wasp_00WW"
+    setprop ro.product.vendor.name "Wasp_00WW"
