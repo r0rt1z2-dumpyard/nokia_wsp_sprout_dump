@@ -1,0 +1,8 @@
+ro.build.fingerprint=Nokia/Wasp_00EEA/WSP_sprout:11/RP1A.200720.011/00WW_3_380:user/release-keys
+ro.vendor.build.fingerprint=Nokia/Wasp_00EEA/WSP_sprout:11/RP1A.200720.011/00WW_3_380:user/release-keys
+ro.bootimage.build.fingerprint=Nokia/Wasp_00EEA/WSP_sprout:11/RP1A.200720.011/00WW_3_380:user/release-keys
+ro.odm.build.fingerprint=Nokia/Wasp_00EEA/WSP_sprout:11/RP1A.200720.011/00WW_3_380:user/release-keys
+ro.product.model.num=00EEA
+ro.product.name=Wasp_00EEA
+ro.product.vendor.name=Wasp_00EEA
+ro.product.odm.name=Wasp_00EEA
