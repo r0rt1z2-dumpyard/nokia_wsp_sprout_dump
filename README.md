@@ -1,0 +1,19 @@
+## full_wasp-user 11 RP1A.200720.011 1811 release-keys
+- Manufacturer: hmd global
+- Platform: mt6761
+- Codename: WSP_sprout
+- Brand: Nokia
+- Flavor: full_wasp-user
+- Release Version: 11
+- Kernel Version: 4.19.127
+- Id: RP1A.200720.011
+- Incremental: 00WW_3_380
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Nokia/Wasp_00WW/WSP_sprout:11/RP1A.200720.011/00WW_3_380:user/release-keys
+- OTA version: 
+- Branch: full_wasp-user-11-RP1A.200720.011-1811-release-keys
+- Repo: nokia_wsp_sprout_dump
